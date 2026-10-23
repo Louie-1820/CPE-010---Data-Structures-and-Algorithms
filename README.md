@@ -14,6 +14,9 @@
   3. Build efficient algorithms based on selected data structures using good programming styles in C++.
 
 **Topics:**
+
 [PRELIM PERIOD](https://github.com/Louie-1820/CPE-010---Data-Structures-and-Algorithms/tree/c0685d39c4284fb76ae13f70053ebba5f4506705/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming)
-[MIDTERM PERIOD]
-[FINAL PERIOD]
+
+[MIDTERM PERIOD](https://github.com/Louie-1820/CPE-010---Data-Structures-and-Algorithms/tree/092325a82c9ebeebd3afcc60342b6dbf082ba2d7/Hands-on%20Activity%202.1%20Arrays%2C%20Pointers%20and%20Dynamic%20Memory%20Allocation)
+
+[FINAL PERIOD](https://github.com/Louie-1820/CPE-010---Data-Structures-and-Algorithms/tree/092325a82c9ebeebd3afcc60342b6dbf082ba2d7/Hands-on%20Activity%203.1%20Linked%20Lists)
