@@ -14,4 +14,4 @@
   3. Build efficient algorithms based on selected data structures using good programming styles in C++.
 
 **Topics:**
-[Hands-on Activity 1.1 Basic C++ Programming](https://github.com/Louie-1820/CPE-010---Data-Structures-and-Algorithms/tree/c0685d39c4284fb76ae13f70053ebba5f4506705/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming)
+[PRELIM PERIOD](https://github.com/Louie-1820/CPE-010---Data-Structures-and-Algorithms/tree/c0685d39c4284fb76ae13f70053ebba5f4506705/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming)
