@@ -14,4 +14,4 @@
   3. Build efficient algorithms based on selected data structures using good programming styles in C++.
 
 **Topics:**
-[Hands-on Activity 1.1 Basic C++ Programming]
+[Hands-on Activity 1.1 Basic C++ Programming] (Hands-on Activity 1.1 Basic C++ Programming)
