@@ -15,7 +15,7 @@
 
 **Topics:**
 
-[MAIN BRANCH]([https://github.com/Louie-1820/CPE-010---Data-Structures-and-Algorithms/tree/Hands-on-Activity-1.1-Basic-C%2B%2B-Programming](https://github.com/Louie-1820/CPE-010---Data-Structures-and-Algorithms))
+[PRELIM PERIOD]([https://github.com/Louie-1820/CPE-010---Data-Structures-and-Algorithms.git)
 
 [MIDTERM PERIOD](https://github.com/Louie-1820/CPE-010---Data-Structures-and-Algorithms/tree/092325a82c9ebeebd3afcc60342b6dbf082ba2d7/Hands-on%20Activity%202.1%20Arrays%2C%20Pointers%20and%20Dynamic%20Memory%20Allocation)
 
